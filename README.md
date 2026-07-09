@@ -29,5 +29,7 @@ This project analyzes the Sample Superstore dataset using Microsoft Excel to unc
 ## Files
 - sample_superstore.xlsx
 - README.md
-- screenshots/
+## Dashboard
+
+![Superstore Dashboard](dashboard.png)
 
