@@ -16,9 +16,6 @@ This project analyzes the Sample Superstore dataset using Microsoft Excel to unc
 - Slicers
 - Conditional Formatting
 
-## Dashboard
-(Add your dashboard screenshot here)
-
 ## Key Insights
 - West generated the highest sales.
 - South generated the lowest sales.
