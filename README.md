@@ -32,4 +32,9 @@ This project analyzes the Sample Superstore dataset using Microsoft Excel to unc
 ## Dashboard
 
 ![Superstore Dashboard](dashboard.png)
+## Files
+
+- sample_superstore_dashboard.xlsx – Interactive Excel dashboard
+- dashboard.png – Dashboard screenshot
+- data/Sample - Superstore.xlsx – Original dataset
 
