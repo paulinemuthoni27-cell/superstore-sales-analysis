@@ -38,3 +38,37 @@ This project analyzes the Sample Superstore dataset using Microsoft Excel to unc
 - dashboard.png – Dashboard screenshot
 - data/Sample - Superstore.xlsx – Original dataset
 
+  ## Skills Demonstrated
+
+### Technical Skills
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+
+### Data Analysis Skills
+- Data Cleaning
+- KPI Development
+- Data Visualization
+- Business Analysis
+
+### Professional Skills
+- Analytical Thinking
+- Problem Solving
+- Attention to Detail
+
+  ## Recommendations
+
+- Review Furniture pricing and discounts.
+- Increase investment in Technology products.
+- Investigate the causes of low sales in the South region.
+
+  ## Project Workflow
+
+1. Imported the dataset.
+2. Cleaned and prepared the data.
+3. Created Pivot Tables.
+4. Designed Pivot Charts.
+5. Built an interactive dashboard.
+6. Derived business insights.
+
