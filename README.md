@@ -1,2 +1,33 @@
-# superstore-sales-analysis
-An end-to-end Excel data analysis project analyzing retail sales, profitability, and regional performance using the Sample Superstore dataset.
+# Superstore Sales Analysis
+
+## Project Overview
+This project analyzes the Sample Superstore dataset using Microsoft Excel to uncover insights into sales, profit, orders, and regional performance.
+
+## Objectives
+- Analyze sales performance
+- Identify the most profitable categories
+- Compare regional performance
+- Create an interactive dashboard
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+
+## Dashboard
+(Add your dashboard screenshot here)
+
+## Key Insights
+- West generated the highest sales.
+- South generated the lowest sales.
+- Technology had the highest sales and profit.
+- Furniture had high sales but relatively low profit.
+- Pricing and discount strategies should be reviewed for Furniture.
+
+## Files
+- sample_superstore.xlsx
+- README.md
+- screenshots/
+
