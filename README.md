@@ -69,3 +69,11 @@ This project analyzes the Sample Superstore dataset using Microsoft Excel to unc
 5. Built an interactive dashboard.
 6. Derived business insights.
 
+   ## Author
+
+**Pauline Mucina**
+
+Aspiring Data Analyst passionate about using Excel, SQL, Power BI, and Python to transform data into actionable insights.
+
+GitHub: https://github.com/paulinemuthoni27-cell
+
